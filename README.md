@@ -39,3 +39,10 @@ utils.py
 
 ## How to use
 
+Under the folder and type the command on the terminal, To produce the results of Table 3, XFMR_EVL 
+
+P : 0.1560, R : 0.5432, F1 : 0.2387, MCC : 0.2594
+
+Use the following command 
+
+python test.py --no 281 --device 0
