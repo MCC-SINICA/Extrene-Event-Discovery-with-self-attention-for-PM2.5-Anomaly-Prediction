@@ -51,11 +51,11 @@ python test.py --no 281 --device 0
 
 To view the results which showed in paper, plz check the folder "Final_Results"
 
-281 = XFMR_EVL
+281 = XFMR_EVL, P : 0.1560, R : 0.5432, F1 : 0.2387, MCC : 0.2594
 
-477 = DMXFMR_EVL
+477 = DMXFMR_EVL, P : 0.1467, R : 0.5305, F1 : 0.2264, MCC : 0.2462
 
-478 = LMXFMR_EVL
+478 = LMXFMR_EVL, P : 0.1600, R : 0.5307, F1 : 0.2420, MCC : 0.2597
 
 
 
