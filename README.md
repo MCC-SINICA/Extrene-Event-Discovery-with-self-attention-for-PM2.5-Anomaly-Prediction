@@ -46,3 +46,19 @@ P : 0.1560, R : 0.5432, F1 : 0.2387, MCC : 0.2594
 Use the following command 
 
 python test.py --no 281 --device 0
+
+## Remark
+To view the results which showed in paper, plz check the folder "Final_Results"
+281 = XFMR_EVL
+
+477 = DMXFMR_EVL
+
+478 = LMXFMR_EVL
+
+
+
+
+
+## Ongoing
+
+since the chickpoints of the model too many, we continue upload it.
