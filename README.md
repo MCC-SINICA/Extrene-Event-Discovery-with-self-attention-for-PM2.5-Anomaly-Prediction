@@ -3,15 +3,15 @@ This repository store the code for Extrene Event Discovery with self attention f
 ## Please use the package version in the requirements file to run the program.
 
 ## Contains folders:
-checkpoints
+checkpoints : saving the model checkpoints during training.
 
-configs
+configs : saving the model setting during training.
 
-data
+data : After pre-processing
 
-Final_Results
+Final_Results : The results which showed in paper
 
-results
+results : The results which produced by test.py
 
 
 ## Contains files:
