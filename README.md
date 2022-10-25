@@ -3,7 +3,7 @@ This repository store the code for Extrene Event Discovery with self attention f
 ## Please use the package version in the requirements file to run the program.
 
 ## Contains folders:
-checkpoints
+checkpoints/
 configs
 data
 Final_Results
